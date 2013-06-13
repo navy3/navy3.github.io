@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Navy
-tagline: if I rest,I rust.
+title : Navy if I rest I rust
+tagline: 
 author :
   name : Wenwei Xie
   email : focusspeed@gmail.com

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "About"
-description: ""
+description: "Navy,iOS Developer"
 ---
 {% include JB/setup %}
